@@ -81,7 +81,7 @@ Create a class hierarchy for a library system with different book types like Pri
 ```
 
 
-## 8) Print Odd Numbers Between 1 to 20
+## 8) Retail Store Management System
 
 Implement a system for a retail store that can store, edit, and delete multiple product types like fruits, vegetables, and groceries. The system should display available products with their name, price, and quantity. Use object-oriented programming principles to manage the product data efficiently.
 
